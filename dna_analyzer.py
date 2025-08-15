@@ -1,5 +1,5 @@
 # DNA Analyzer Script
-# Author: Your Name
+# Author: SANA
 # Date: 2025-08-15
 # Description: Reads DNA sequences from FASTA, performs analysis, and prints results
 
